@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://f19.pl/mieszkania_mieszkania_sprzedaz_legnica.html</loc>
+  </url>
+  
+  <url>
     <loc>https://f19.pl/categories/</loc>
   </url>
   
@@ -11,7 +15,23 @@
   </url>
   
   <url>
+    <loc>https://f19.pl/galeria_mieszkania_sprzedaz_legnica.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://f19.pl/lokalizacja_mieszkania_sprzedaz_legnica.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://f19.pl/o_inwestycji_mieszkania_sprzedaz_legnica.html</loc>
+  </url>
+  
+  <url>
     <loc>https://f19.pl/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://f19.pl/zakup_gruntow.html</loc>
   </url>
   
 </urlset>
